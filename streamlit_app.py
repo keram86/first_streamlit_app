@@ -1,3 +1,3 @@
-import streamlite
+import streamlit
 
 stremalit.title('test text')
